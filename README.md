@@ -26,7 +26,21 @@
     <img src="https://img.shields.io/badge/Cisco-Python_Essentials_1-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certification">
   </a>
   <b> (94% Score - Top Scorer)</b>
+</p> 
+
+  <a href="PUT_YOUR_CREDLY_CYBERSECURITY_LINK_HERE">
+    <img src="https://img.shields.io/badge/Cisco-Cybersecurity_Essentials-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Certification" />
+  </a><br><br>
+
+  <a href="claude_cert.jpg">
+    <img src="https://img.shields.io/badge/Anthropic-Claude_101-black?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude Certification" />
+  </a>
 </p>
+
+
+
+
+
 
 
 [![Anthropic](https://img.shields.io/badge/Anthropic-Claude_101-black?style=for-the-badge&logo=anthropic&logoColor=white)](claude_cert.jpg)
