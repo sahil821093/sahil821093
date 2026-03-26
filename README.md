@@ -40,13 +40,6 @@
 
 
 
-
-
-
-[![Anthropic](https://img.shields.io/badge/Anthropic-Claude_101-black?style=for-the-badge&logo=anthropic&logoColor=white)](claude_cert.jpg)
-
-
-
 ### 🛠️ My Tech Stack
 **Programming & Databases**
 <p align="left">
