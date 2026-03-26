@@ -29,6 +29,12 @@
 </p>
 
 
+### 🎓 Professional Certifications
+
+* [![CISCO](https://img.shields.io/badge/CISCO-Python_Essentials_1-blue?style=for-the-badge&logo=cisco&logoColor=white)](python_cert.jpg)
+* [![Anthropic](https://img.shields.io/badge/Anthropic-Claude_101-black?style=for-the-badge&logo=anthropic&logoColor=white)](claude_cert.jpg)
+* [![CISCO](https://img.shields.io/badge/CISCO-Cybersecurity_Essentials-blue?style=for-the-badge&logo=cisco&logoColor=white)](cybersecurity_cert.jpg)
+* 
 
 
 [![Anthropic](https://img.shields.io/badge/Anthropic-Claude_101-black?style=for-the-badge&logo=anthropic&logoColor=white)](claude_cert.jpg)
