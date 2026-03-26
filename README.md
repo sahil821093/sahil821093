@@ -28,7 +28,7 @@
   <b> (94% Score - Top Scorer)</b>
 </p> 
 
-  <a href="PUT_YOUR_CREDLY_CYBERSECURITY_LINK_HERE">
+  <a href="https://www.credly.com/badges/51b29245-dbef-48a9-9a4e-1bd6c08da070 ">
     <img src="https://img.shields.io/badge/Cisco-Cybersecurity_Essentials-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Certification" />
   </a><br><br>
 
