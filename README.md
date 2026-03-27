@@ -39,7 +39,7 @@
 
 
 
-Generative AI - Analytics Vidhya: [![Analytics Vidhya GenAI Cert](https://courses.analyticsvidhya.com/certificates/shnsgquuxu](./path/to/your/certificate_file.jpg)
+Generative AI - Analytics Vidhya: [![Analytics Vidhya GenAI Cert](https://courses.analyticsvidhya.com/certificates/shnsgquuxu](Md Sahil - 2026-03-27_1.jpg)
 
 
 
