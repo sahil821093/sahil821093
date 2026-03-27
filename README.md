@@ -38,8 +38,8 @@
 </p>
 
 
-**Generative AI:** ![](https://img.shields.io/badge/Analytics_Vidhya-Generative_AI-teal?logo=brain&logoColor=white&style=for-the-badge)
 
+**Generative AI:** [![Analytics Vidhya GenAI Cert](https://img.shields.io/badge/Analytics_Vidhya-Generative_AI-teal?logo=brain&logoColor=white&style=for-the-badge)](./Md%20Sahil%20.jpg)
 
 
 
