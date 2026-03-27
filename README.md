@@ -39,6 +39,13 @@
 
 
 
+Generative AI - Analytics Vidhya: [![Analytics Vidhya GenAI Cert](https://courses.analyticsvidhya.com/certificates/shnsgquuxu](./path/to/your/certificate_file.jpg)
+
+
+
+
+
+
 
 ### 🛠️ My Tech Stack
 **Programming & Databases**
