@@ -38,10 +38,7 @@
 </p>
 
 
-
-Generative AI - Analytics Vidhya: [![Analytics Vidhya GenAI Cert](https://courses.analyticsvidhya.com/certificates/shnsgquuxu](Md Sahil - 2026-03-27_1.jpg)
-
-
+**Generative AI:** ![](https://img.shields.io/badge/Analytics_Vidhya-Generative_AI-teal?logo=brain&logoColor=white&style=for-the-badge)
 
 
 
