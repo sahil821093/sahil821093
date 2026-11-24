@@ -64,6 +64,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ### 🚀 Featured Projects
+- - 🏦 [**Smart Banking Management System (Core Java)**](https://github.com/sahil821093/java-smart-banking-system): Console-based banking application demonstrating OOPs (Encapsulation, Classes, Constructors) and clean Java package structure.
 - 🌐 [**Personal Portfolio Website**](https://github.com/sahil821093/my-portfolio): My personal portfolio built using HTML and CSS to showcase my skills and projects.
 - 🏆 [**IIBM Smart Student Manager Pro (Project 12)**](https://github.com/sahil821093/first): Desktop application combining a Tkinter GUI with an SQLite database, live data tables, and full CRUD operations.
 - 🗄️ [**Enterprise Database Manager (Project 11)**](https://github.com/sahil821093/first): A CLI tool built with Python featuring an SQLite database and full CRUD operations.
