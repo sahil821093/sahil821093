@@ -3,21 +3,18 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Md Sahil</h1>
-<h3 align="center">A passionate BCA Student & Software Developer from IIBM Patna 🎓</h3>
+<h3 align="center">A passionate BCA Student & Aspiring Software Developer from IIBM Patna 🎓</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi,+I'm+Md+Sahil!;Python+Developer;BCA+Student+@+IIBM+Patna" alt="Typing SVG" /></a>
-
-
-
-
-
-
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi,+I'm+Md+Sahil!;Java+%26+Web+Developer;BCA+Student+@+IIBM+Patna" alt="Typing SVG" /></a>
+</p>
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently building **Full-Stack Desktop Applications & Enterprise Systems**.
-- 🌱 I’m currently mastering **Python, SQLite Databases, and GUI Development**.
-- 🏫 Pursuing my BCA at **IIBM Patna** with a focus on real-world logic building.
-- 🎨 Passionate about crafting UI logic and expanding my skills in **Editing and Application Design**.
+- 🎓 Pursuing **BCA (3rd Semester)** at **IIBM, Patna** (Aryabhatta Knowledge University).
+- 🚀 **Google Student Ambassador (2026)**, actively exploring AI tools and tech communities.
+- 💻 Currently building my foundation in **Java, C++, DSA, and Web Development (HTML/CSS)**.
+- 🎯 Aiming for **Junior Software Developer** roles specializing in **Java & Web Development**.
+- 🎬 Beyond coding, I enjoy **digital content creation and video editing**.
 - 📫 How to reach me: Scroll down to the Connect section!
 
 ### 🏆 Certifications
@@ -25,35 +22,35 @@
   <a href="https://www.credly.com/badges/f2b0aa19-e57f-46b2-9fc2-b38c8971fd1d/public_url">
     <img src="https://img.shields.io/badge/Cisco-Python_Essentials_1-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certification">
   </a>
-  <b> (94% Score - Top Scorer)</b>
-</p> 
-
-  <a href="https://www.credly.com/badges/51b29245-dbef-48a9-9a4e-1bd6c08da070 ">
-    <img src="https://img.shields.io/badge/Cisco-Cybersecurity_Essentials-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Certification" />
-  </a><br><br>
-
+  <a href="cisco_cert.jpg">
+    <img src="https://img.shields.io/badge/CISCO-INTRODUCTION%20TO%20CYBERSECURITY-00bceb?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity" />
+  </a>
+  <a href="linux_cert.jpg">
+    <img src="https://img.shields.io/badge/CISCO-LINUX%20UNHATCHED-00bceb?style=for-the-badge&logo=linux&logoColor=white" alt="Cisco Linux Unhatched Certificate" />
+  </a>
   <a href="claude_cert.jpg">
-    <img src="https://img.shields.io/badge/Anthropic-Claude_101-black?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude Certification" />
+    <img src="https://img.shields.io/badge/Anthropic-Claude_101-black?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude 101" />
+  </a>
+  <a href="anthropic_cert.jpg">
+    <img src="https://img.shields.io/badge/ANTHROPIC-CLAUDE%20WITH%20THE%20ANTHROPIC%20API-black?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic API Certificate" />
   </a>
 </p>
 
-
-
-**Generative AI:** [![Analytics Vidhya GenAI Cert](https://img.shields.io/badge/Analytics_Vidhya-Generative_AI-teal?logo=brain&logoColor=white&style=for-the-badge)](./md-sahil-genai-cert.jpg)
-
-
-
 ### 🛠️ My Tech Stack
-**Programming & Databases**
+**Languages & Web**
 <p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-***Tools & IDEs***
+**Tools & IDEs**
 <p align="left">
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
@@ -67,21 +64,17 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ### 🚀 Featured Projects
-Here are my top projects mapping my journey from basic Python logic to full database-driven applications:
-
-* 🏆 [**IIBM Smart Student Manager Pro (Project 12)**](https://github.com/sahil821093/first): The ultimate 'Full-Stack' Desktop Application combining a professional Tkinter GUI with a real-time SQLite database, featuring live data tables and full CRUD operations.
-* 
-
-* 🗄️ [**Enterprise Database Manager (Project 11)**](https://github.com/sahil821093/first): A professional CLI tool built with Python featuring a real-time SQLite database and full CRUD operations.
-* 🖥️ [**Student-Registration-Portal-GUI (Project 10)**](https://github.com/sahil821093/first): The 'Grand Finale' Full-Stack Desktop App integrating Tkinter and CSV databases.
-* 💼 [**Enterprise Payroll Management (Project 9)**](https://github.com/sahil821093/first): A professional-grade system with `.txt` logging and `.csv` handling.
-* 🌤️ [**Python Learning Journey (Projects 1-8)**](https://github.com/sahil821093/first): My foundational logic-building projects including the *Interactive Weather App*, *Smart Task Manager*, and *Tech News Aggregator*.
-* 
+- 🌐 [**Personal Portfolio Website**](https://github.com/sahil821093/my-portfolio): My personal portfolio built using HTML and CSS to showcase my skills and projects.
+- 🏆 [**IIBM Smart Student Manager Pro (Project 12)**](https://github.com/sahil821093/first): Desktop application combining a Tkinter GUI with an SQLite database, live data tables, and full CRUD operations.
+- 🗄️ [**Enterprise Database Manager (Project 11)**](https://github.com/sahil821093/first): A CLI tool built with Python featuring an SQLite database and full CRUD operations.
+- 🖥️ [**Student-Registration-Portal-GUI (Project 10)**](https://github.com/sahil821093/first): Desktop app integrating Tkinter and CSV databases.
+- 💼 [**Enterprise Payroll Management (Project 9)**](https://github.com/sahil821093/first): Payroll system with `.txt` logging and `.csv` handling.
+- 🌤️ [**Python Learning Journey (Projects 1-8)**](https://github.com/sahil821093/first): Foundational logic-building projects including *Interactive Weather App*, *Smart Task Manager*, and *Tech News Aggregator*.
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-sahil-iibm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto: sahilking821093@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.linkedin.com/in/md-sahil-1708852a5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:sahilking821093@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.youtube.com/@sahilking-all_rounder" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://www.instagram.com/Lafz-e-Sahil" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
