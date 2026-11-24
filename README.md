@@ -6,7 +6,7 @@
 <h3 align="center">A passionate BCA Student & Aspiring Software Developer from IIBM Patna 🎓</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi,+I'm+Md+Sahil!;Java+%26+Web+Developer;BCA+Student+@+IIBM+Patna" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=3000&lines=Hi,+I'm+Md+Sahil!;Aspiring+Java+%26+Web+Developer;BCA+Student+@+IIBM+Patna" alt="Typing SVG" /></a>
 </p>
 
 ### 👨‍💻 About Me
