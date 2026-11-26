@@ -21,9 +21,7 @@
 <p align="left">
   
 
-  <a href="cisco_cert.jpg">
-    <img src="https://img.shields.io/badge/CISCO-INTRODUCTION%20TO%20CYBERSECURITY-00bceb?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity" />
-  </a>
+  
  
   <a href="claude_cert.jpg">
     <img src="https://img.shields.io/badge/Anthropic-Claude_101-black?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude 101" />
