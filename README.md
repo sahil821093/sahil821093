@@ -64,14 +64,11 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ### 🚀 Featured Projects
-- - 🏦 [**Smart Banking Management System (Core Java)**](https://github.com/sahil821093/java-smart-banking-system): Console-based banking application demonstrating OOPs (Encapsulation, Classes, Constructors) and clean Java package structure.
-- 🌐 [**Personal Portfolio Website**](https://github.com/sahil821093/my-portfolio): My personal portfolio built using HTML and CSS to showcase my skills and projects.
-- 🏆 [**IIBM Smart Student Manager Pro (Project 12)**](https://github.com/sahil821093/first): Desktop application combining a Tkinter GUI with an SQLite database, live data tables, and full CRUD operations.
-- 🗄️ [**Enterprise Database Manager (Project 11)**](https://github.com/sahil821093/first): A CLI tool built with Python featuring an SQLite database and full CRUD operations.
-- 🖥️ [**Student-Registration-Portal-GUI (Project 10)**](https://github.com/sahil821093/first): Desktop app integrating Tkinter and CSV databases.
-- 💼 [**Enterprise Payroll Management (Project 9)**](https://github.com/sahil821093/first): Payroll system with `.txt` logging and `.csv` handling.
-- 🌤️ [**Python Learning Journey (Projects 1-8)**](https://github.com/sahil821093/first): Foundational logic-building projects including *Interactive Weather App*, *Smart Task Manager*, and *Tech News Aggregator*.
-
+- 🏦 [**Smart Banking Management System (Core Java)**](https://github.com/sahil821093/java-smart-banking-system): Console-based banking app demonstrating Abstraction, Inheritance, Polymorphism, and Encapsulation.
+- 💻 [**C++ OOPs Programs**](https://github.com/sahil821093/cpp-oops-programs): Core C++ programs covering Classes, Constructors, Inheritance, and Operator Overloading.
+- 🔐 [**Password Strength Checker (Python)**](https://github.com/sahil821093/python-password-checker): Lightweight Python script to evaluate password strength based on security rules.
+- 🎓 [**Student Grade Calculator (C)**](https://github.com/sahil821093/c-student-grade-calculator): Console-based C program using arrays, loops, and conditionals.
+- 🌐 [**Personal Portfolio Website (HTML/CSS)**](https://github.com/sahil821093/my-portfolio): Responsive personal portfolio hosted live on GitHub Pages.
 ### 🤝 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/md-sahil-1708852a5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
