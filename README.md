@@ -19,22 +19,16 @@
 
 ### 🏆 Certifications
 <p align="left">
-  <a href="https://www.credly.com/badges/f2b0aa19-e57f-46b2-9fc2-b38c8971fd1d/public_url">
-    <img src="https://img.shields.io/badge/Cisco-Python_Essentials_1-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certification">
-  </a>
+  
+
   <a href="cisco_cert.jpg">
     <img src="https://img.shields.io/badge/CISCO-INTRODUCTION%20TO%20CYBERSECURITY-00bceb?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity" />
   </a>
-  <a href="linux_cert.jpg">
-    <img src="https://img.shields.io/badge/CISCO-LINUX%20UNHATCHED-00bceb?style=for-the-badge&logo=linux&logoColor=white" alt="Cisco Linux Unhatched Certificate" />
-  </a>
+ 
   <a href="claude_cert.jpg">
     <img src="https://img.shields.io/badge/Anthropic-Claude_101-black?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude 101" />
   </a>
-  <a href="anthropic_cert.jpg">
-    <img src="https://img.shields.io/badge/ANTHROPIC-CLAUDE%20WITH%20THE%20ANTHROPIC%20API-black?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic API Certificate" />
-  </a>
-</p>
+ 
 
 ### 🛠️ My Tech Stack
 **Languages & Web**
